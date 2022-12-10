@@ -1,0 +1,109 @@
+
+
+#header {
+    background-color: rgba(53,58,64,255);
+
+}
+
+#principal {
+    position: relative;
+    overflow: hidden;
+    color: white;
+    text-align: right;
+    padding-left: 50%;
+    margin-top: 0;
+}
+
+#principal h2 {
+    padding-top: 40%;
+    padding-right: 10%;
+    position: relative;
+    z-index: 2;
+}
+
+#principal p {
+
+    padding: 2% 10% 0%;
+    position: relative;
+    z-index: 2;
+}
+
+#principal .botones{
+    padding: 1% 10% 2%;
+    position: relative;
+    z-index: 2;
+    
+}
+
+#principal button {
+    
+    position: relative;
+    z-index: 2;
+    margin-top: 0;
+    margin-bottom: 10%;
+}
+
+#carouselExampleSlidesOnly{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin-top: 0;
+    filter: brightness(50%);
+        
+}
+
+#conoce {
+    margin-top: 1%;
+    font-size: small;
+}
+
+#oradores {
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+#tarjetas {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+}
+
+#blancos {
+    color: white !important;
+}
+.container_abajo {
+    background-color: rgba(53,58,64,255);
+    color: white;
+    
+
+}
+
+.container_abajo .row .col-6 {
+    border: 4px solid white;
+}
+
+#octubre {
+    padding: 1%;
+}
+
+#anotate {
+    margin: 0% !important;
+}
+
+.form-control {
+    margin-top: 20px;
+    display: inline !important;
+}
+
+#enviar {
+    background-color: green !important;
+    border-color: green !important;
+    width: 100%;
+}
+
+#footer {
+    background-color: rgba(29,55,68,255);
+    background-image: var(--bs-gradient);
+    place-items: center !important;
+}

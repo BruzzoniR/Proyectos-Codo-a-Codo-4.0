@@ -1,0 +1,29 @@
+
+
+#header {
+    background-color: rgba(53,58,64,255);
+
+}
+
+#tarjetas {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+#blancos {
+    color: white !important;
+}
+
+.botones {
+    background-color:rgba(151,201,62,255)  !important;
+    border-color: rgba(151,201,62,255) !important;
+    width: 100%;
+}
+
+#footer {
+    background-color: rgba(29,55,68,255);
+    background-image: var(--bs-gradient);
+    place-items: center !important;
+}
